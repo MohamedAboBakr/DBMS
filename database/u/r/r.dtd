@@ -1,0 +1,6 @@
+<!ELEMENT table (row*)>
+<!ELEMENT row (id,name)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST id type NMTOKEN #FIXED "Integer">
+<!ATTLIST name type NMTOKEN #FIXED "String">

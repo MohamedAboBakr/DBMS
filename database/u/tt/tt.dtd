@@ -1,0 +1,4 @@
+<!ELEMENT table (row*)>
+<!ELEMENT row (id)>
+<!ELEMENT id (#PCDATA)>
+<!ATTLIST id type NMTOKEN #FIXED "Integer">

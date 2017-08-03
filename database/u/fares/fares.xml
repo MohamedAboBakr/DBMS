@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE table SYSTEM "fares.dtd">
+<table>
+    <row>
+        <id type="Integer">44</id>
+    </row>
+<row>
+        <id type="Integer">55</id>
+    </row>
+<row>
+        <id type="Integer">66</id>
+    </row>
+</table>
